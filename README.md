@@ -1,2 +1,3 @@
 # CiberProyecto
-Desarrollo en Java con mysql
+Desarrollo en Java 
+Programa netBeans y mysqlWorkbench
